@@ -1,0 +1,10 @@
+* glfw
+
+An up-to-date Common Lisp bindings library to the most recent GLFW
+OpenGL context management library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shirakumo/glfw.git |
+| commit  | 1042192                                   |
+| systems | glfw                                      |
+|---------+-------------------------------------------|
