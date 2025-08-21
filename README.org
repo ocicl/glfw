@@ -4,7 +4,7 @@ An up-to-date Common Lisp bindings library to the most recent GLFW
 OpenGL context management library
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/Shirakumo/glfw.git |
+| source  | git:https://codeberg.org/shirakumo/glfw.git |
 | commit  | b1778e5                                   |
 | systems | glfw                                      |
 |---------+-------------------------------------------|
