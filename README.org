@@ -5,7 +5,7 @@ OpenGL context management library
 
 |---------+---------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/glfw.git |
-| commit  | 8835c27                                     |
+| commit  | 12917e2                                     |
 | systems | glfw                                        |
 |---------+---------------------------------------------|
  
